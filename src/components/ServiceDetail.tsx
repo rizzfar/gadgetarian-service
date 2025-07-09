@@ -1,4 +1,3 @@
-import React from 'react';
 import { Laptop, Smartphone, Monitor, Calendar, User, Wrench, FileText, CheckCircle } from 'lucide-react';
 
 interface ServiceData {

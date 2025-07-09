@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import Header from './components/Header';
 import ServiceLookup from './components/ServiceLookup';
 import ServiceDetail from './components/ServiceDetail';
